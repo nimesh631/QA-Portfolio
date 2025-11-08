@@ -1,7 +1,11 @@
 {
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
   "dependencies": {
     "chai": "^6.2.0",
     "chromedriver": "^141.0.3",
+    "mocha": "^11.7.4",
     "selenium-webdriver": "^4.37.0"
   }
 }
