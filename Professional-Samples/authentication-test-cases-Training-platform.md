@@ -1,5 +1,5 @@
 # Authentication & Login – Test Cases – Training Platform App
-**Application Type:** Web Application  
+**Application Type:** Mobile App / Training Platform
 **Module:** Authentication/Login  
 **Testing Type:** Functional, UI/UX, Integration  
 
