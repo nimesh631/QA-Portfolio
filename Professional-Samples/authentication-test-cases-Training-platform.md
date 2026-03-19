@@ -69,7 +69,7 @@
 
 ---
 
-## TC_AUTH_LOGIN_005
+## TC_AUTH_LOGIN_004
 **Title:** Verify toggle between hide and show for password field using eye icon  
 **Precondition:** User is on the Sign In page  
 
@@ -90,7 +90,7 @@
 
 ---
 
-## TC_AUTH_LOGIN_006
+## TC_AUTH_LOGIN_005
 **Title:** Verify "Customizing Your Profile" navigation for new users signing in via Google  
 **Precondition:** User is on the Sign In page  
 
@@ -111,7 +111,7 @@
 
 ---
 
-## TC_AUTH_PROFILE_008
+## TC_AUTH_PROFILE_006
 **Title:** Verify DOB field has minimum age validation  
 **Precondition:** User is on Profile Customization page  
 
@@ -132,7 +132,7 @@
 
 ---
 
-## TC_AUTH_PROFILE_010
+## TC_AUTH_PROFILE_007
 **Title:** Verify Username handles empty input  
 **Precondition:** User is on Profile Customization page  
 
@@ -152,7 +152,7 @@
 
 ---
 
-## TC_AUTH_CONSENT_013
+## TC_AUTH_CONSENT_008
 **Title:** Verify parental consent is sent to parent's email  
 **Precondition:** User is on Parental Consent page  
 
@@ -172,7 +172,7 @@
 
 ---
 
-## TC_AUTH_LOGIN_028
+## TC_AUTH_LOGIN_009
 **Title:** Verify password field maximum character limit  
 **Precondition:** User is on Sign In page  
 
@@ -192,7 +192,7 @@
 
 ---
 
-## TC_AUTH_LOGIN_046
+## TC_AUTH_LOGIN_010
 **Title:** Verify user can sign in using Apple ID and multiple Google accounts to access same account  
 **Precondition:** User has Apple ID and multiple Google accounts  
 
@@ -213,7 +213,7 @@
 
 ---
 
-## TC_AUTH_UI_047
+## TC_AUTH_UI_011
 **Title:** Verify UI elements are visible and readable in Dark Mode  
 **Precondition:** Dark mode enabled in app settings  
 
