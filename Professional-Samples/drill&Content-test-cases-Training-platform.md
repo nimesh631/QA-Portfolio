@@ -8,7 +8,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_DRILL_FILTER_311
+## TC_DRILL_FILTER_001
 **Title:** Verify only drills matching the selected Skill are displayed  
 **Precondition:** App contains content items with different skills  
 
@@ -30,7 +30,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_DRILL_FILTER_312
+## TC_DRILL_FILTER_002
 **Title:** Verify only drills matching the selected Skill Level are displayed  
 **Precondition:** App contains content items with different skill levels  
 
@@ -51,7 +51,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_DRILL_FILTER_313
+## TC_DRILL_FILTER_003
 **Title:** Verify only drills matching both selected Skill and Skill Level are displayed  
 **Precondition:** App contains content items with different skills and skill levels  
 
@@ -73,7 +73,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_CONTENT_PLAYBACK_315
+## TC_CONTENT_PLAYBACK_004
 **Title:** Verify content plays in portrait mode in full screen when auto-rotate is disabled  
 **Precondition:** App contains both YouTube and uploaded video content  
 
@@ -95,7 +95,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_CONTENT_PLAYBACK_316
+## TC_CONTENT_PLAYBACK_005
 **Title:** Verify content switches to landscape mode in full screen when device is rotated and auto-rotate is enabled  
 **Precondition:** App contains both YouTube and uploaded video content  
 
@@ -116,7 +116,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_CONTENT_PLAYBACK_317
+## TC_CONTENT_PLAYBACK_006
 **Title:** Verify content returns to portrait mode after exiting full screen  
 **Precondition:** App contains both YouTube and uploaded video content  
 
@@ -138,7 +138,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_CONTENT_SEARCH_321
+## TC_CONTENT_SEARCH_007
 **Title:** Verify search filters content based on title  
 **Precondition:** User is logged in  
 
@@ -161,7 +161,7 @@ These are QA test cases for a sample Training Platform app. All data and titles 
 
 ---
 
-## TC_CONTENT_DISPLAY_322
+## TC_CONTENT_DISPLAY_008
 **Title:** Verify Coach name and content title are displayed correctly  
 **Precondition:** User is logged in  
 
